@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Thử Tóc & Quần Áo Ảo",
+  "description": "Ứng dụng AI thông minh giúp đổi kiểu tóc, nhuộm màu và thử trang phục ảo chân thực với phân tích khuôn mặt chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
